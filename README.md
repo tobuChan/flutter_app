@@ -1,6 +1,6 @@
-# flutter_app
+# 疫情助手
 
-A new Flutter application.
+一个能看国内国外疫情实时数据的APP，还可以查看最新新闻和热搜。
 
 ## Getting Started
 
